@@ -31,7 +31,7 @@
     "lodash": "^4.17.19",
     "mui-datatables": "^3.2.0",
     "node-sass": "^4.14.1",
-    "notistack": "^0.8.8",
+    "notistack": "^0.9.17",
     "prop-types": "^15.7.2",
     "qwest": "^4.5.0",
     "react": "^16.8.6",
