@@ -22,7 +22,7 @@
     "date-fns": "^2.15.0",
     "echarts": "^4.8.0",
     "echarts-for-react": "^2.0.16",
-    "firebase": "^8.6.7",
+    "firebase": "^8.10.0",
     "formik": "^2.1.5",
     "globalize": "^0.1.1",
     "history": "^4.10.0",
