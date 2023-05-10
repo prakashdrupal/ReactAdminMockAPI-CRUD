@@ -51,7 +51,7 @@
     "react-router-config": "^5.0.1",
     "react-router-dom": "^5.2.0",
     "react-scripts": "^3.4.3",
-    "react-vis": "^1.11.7",
+    "react-vis": "^1.11.8",
     "recharts": "^1.6.2",
     "redux": "^4.0.1",
     "redux-thunk": "^2.3.0",
